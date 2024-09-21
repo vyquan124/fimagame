@@ -1,0 +1,7 @@
+body {  
+    font-family: Arial, sans-serif;  
+    margin: 20px;  
+    background-image: url('https://www.pace.edu.vn/uploads/news/2023/10/5-cach-cai-thien-ky-nang-quan-ly-tai-chinh.jpg'); /* Đường dẫn tới file hình nền */  
+    background-size: cover; /* Để hình nền phủ đầy trang */  
+    color: red; /* Màu chữ */  
+}  
